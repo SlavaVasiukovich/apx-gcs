@@ -1,0 +1,34 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>APX Ground Control</title>
+        <item>
+            <title>11.0.49</title>
+            <pubDate>Sat, 13 Mar 2021 09:41:02 +0000</pubDate>
+            <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+            <enclosure length="102409236" type="application/octet-stream" url="https://github.com/uavos/apx-gcs/releases/download/release-11.0.49/APX_Ground_Control-11.0.49-macos-x86_64.dmg" sparkle:edSignature="+Mu96Hv9NamnC+zI4ekXA/FlY3r5o2aLUkSW9aK5XmynId9iwMX0CEYvRog33MgsCvAY3nswA9NLJCX3DDYCBw==" sparkle:shortVersionString="11.0.49" sparkle:version="11.0.49" />
+            <sparkle:deltas>
+                <enclosure length="449437" type="application/octet-stream" url="https://github.com/uavos/apx-gcs/releases/download/release-11.0.49/update_dmg-11.0.49-11.0.39.delta" sparkle:deltaFrom="11.0.39" sparkle:edSignature="+yErDRkFEtchD18J6Swlqrbw8cu+sLHWr3PEnEK24J5f7rLpEOcC/fTCgHizEEanIG4uehR1zh+nczvEJNXPCQ==" sparkle:shortVersionString="11.0.49" sparkle:version="11.0.49" />
+                <enclosure length="1755374" type="application/octet-stream" url="https://github.com/uavos/apx-gcs/releases/download/release-11.0.49/update_dmg-11.0.49-11.0.22.delta" sparkle:deltaFrom="11.0.22" sparkle:edSignature="mTegnCjO3/SoYgLFFLEuysSApUYd2Ixf9DUmuIrBFOII+B3GuHe7pMDTpUivFmBqwLqQ6S0JTHRLhHmqnV77Bg==" sparkle:shortVersionString="11.0.49" sparkle:version="11.0.49" />
+                <enclosure length="1781234" type="application/octet-stream" url="https://github.com/uavos/apx-gcs/releases/download/release-11.0.49/update_dmg-11.0.49-11.0.17.delta" sparkle:deltaFrom="11.0.17" sparkle:edSignature="3XZbkwuPKBDBENfdrwuXHmAQsj/XcsYXiaoGYkFQqQs7PXei8NtHIpRsi9bSsaiK9oIDCWeK+ZsjZYXqyndvBA==" sparkle:shortVersionString="11.0.49" sparkle:version="11.0.49" />
+            </sparkle:deltas>
+        <sparkle:releaseNotesLink>https://uavos.github.io/apx-gcs/docs/releases/release-11.0.49.html</sparkle:releaseNotesLink></item>
+        <item>
+            <title>11.0.39</title>
+            <pubDate>Sat, 13 Mar 2021 09:40:57 +0000</pubDate>
+            <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+            <enclosure length="102407799" type="application/octet-stream" url="https://github.com/uavos/apx-gcs/releases/download/release-11.0.39/APX_Ground_Control-11.0.39-macos-x86_64.dmg" sparkle:edSignature="tzwuceooe+OqIEIOoDH4Cch+nGMDhzIzEunscW+Y6h4CrlxxZWqzyjk5eViJ/emEV2Iu4JBN/6rteASKagyXDw==" sparkle:shortVersionString="11.0.39" sparkle:version="11.0.39" />
+        <sparkle:releaseNotesLink>https://uavos.github.io/apx-gcs/docs/releases/release-11.0.39.html</sparkle:releaseNotesLink></item>
+        <item>
+            <title>11.0.22</title>
+            <pubDate>Sat, 13 Mar 2021 09:40:59 +0000</pubDate>
+            <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+            <enclosure length="102535402" type="application/octet-stream" url="https://github.com/uavos/apx-gcs/releases/download/release-11.0.22/APX_Ground_Control-11.0.22-macos-x86_64.dmg" sparkle:edSignature="iBTouH51j3obdYdkgr1ly7tNzVVPckSoU0YAXpfOxb1GhPOPDC80JGWeI7rwb1+LcmguqTD37NZEJa68T43mCw==" sparkle:shortVersionString="11.0.22" sparkle:version="11.0.22" />
+        <sparkle:releaseNotesLink>https://uavos.github.io/apx-gcs/docs/releases/release-11.0.22.html</sparkle:releaseNotesLink></item>
+        <item>
+            <title>11.0.17</title>
+            <pubDate>Sat, 13 Mar 2021 09:41:01 +0000</pubDate>
+            <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+            <enclosure length="102579957" type="application/octet-stream" url="https://github.com/uavos/apx-gcs/releases/download/release-11.0.17/APX_Ground_Control-11.0.17-macos-x86_64.dmg" sparkle:edSignature="3I1ym7pmoU0np6nKnqOzA4S282F+Yh1SDCGoo4C7PukSAADZIIy6mHsJKr4YJlixXTvnDulhL0XC9viGm7Z+Cg==" sparkle:shortVersionString="11.0.17" sparkle:version="11.0.17" />
+        <sparkle:releaseNotesLink>https://uavos.github.io/apx-gcs/docs/releases/release-11.0.17.html</sparkle:releaseNotesLink></item>
+    </channel>
+</rss>

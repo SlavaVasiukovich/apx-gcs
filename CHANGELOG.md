@@ -1,8 +1,8 @@
-# [APX Ground Control v11.1.2](https://github.com/uavos/apx-gcs/releases/tag/release-11.1.2) (01/29/22)
+# [APX Ground Control v11.1.17](https://github.com/uavos/apx-gcs/releases/tag/release-11.1.17) (02/03/22)
 
 > Branch: `main`\
-> Date: `01/29/22 21:58:53`\
-> Diff: [uavos/apx-gcs](https://github.com/uavos/apx-gcs/compare/313891275d9366b21a8506d4e191643c351a9909...fa01285e589ed42198f18fe0e8e0424f04998f87)
+> Date: `02/03/22 15:17:29`\
+> Diff: [uavos/apx-gcs](https://github.com/uavos/apx-gcs/compare/313891275d9366b21a8506d4e191643c351a9909...7cb76c492517ff26998cc32ff3d520cf1c8d0690)
 
 ## New Features
 * Signals with custom expressions
